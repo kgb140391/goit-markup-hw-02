@@ -15,7 +15,7 @@ body {
 .nav-logo .logo-span {
     color: #2e2f42;
 }
-.nav-list-item-list {
+.nav-list-item-list .link {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -89,7 +89,7 @@ body {
 .third-section-list .list-item {
     background-color: #FFFFFF;
 }
-.third-section-list .list-name-one {
+.third-section-list .name-one {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
